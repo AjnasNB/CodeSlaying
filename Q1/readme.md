@@ -1,4 +1,6 @@
 # Questionb 1
 <img src="./Q1.png">
-## Expected answer was using if else or switch
-## Here I used dictionary as I am using python
+<br>
+Expected answer was using if else or switch
+<br>
+Here I used dictionary as I am using python
