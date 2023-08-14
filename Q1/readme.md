@@ -4,4 +4,4 @@
 
 ## Expected answer was using if else or switch
 
-## Here I used dictionary as I am using python
+## Here I used dictionary in python its easy to implement 
